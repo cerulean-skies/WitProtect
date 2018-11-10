@@ -1,0 +1,15 @@
+witnessUsername=ceruleanblue
+receiving_email=john.budzack@gmail.com
+account_ActiveKey=5JWtXHskSdbYTTq7f3kwgfFtnVFqigMYgev3wiwcZ9tD91xDCj6
+NodeA_BrainKey=WLS7Xy1apLaTn3WqeEbBqGi24RQ1ztg7PcMZgyw3eaDAGjPaPNKZq
+NodeB_BrainKey=WLS6PmUK9L6t6JQxPVZrJtoDGZfNz7zaVPigL594YvtndtBHtWWkf
+WitnessLink=https://whaleshares.io/witness/@ceruleanblue/witness-introduction-ceruleanblue-what-can-i-do-for-the-whaleshares-community
+accountCreationFee=0.010 WLS
+threshold=1
+checkRate=10
+NotificationGmail_Login=8kGuTA7%kvnTHaE$QzA
+NotificationGmail_Email=pi.wit.protect@gmail.com
+MaximumBlockSize=131072
+node_URL=ws://188.166.99.136:8090
+node_address_prefix=WLS
+node_chain_id=de999ada2ff7ed3d3d580381f229b40b5a0261aec48eb830e540080817b72866
